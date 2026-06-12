@@ -1,16 +1,33 @@
-# React + Vite
+![](https://media.ztu.edu.ua/wp-content/uploads/2020/02/Group-6-1-1536x465.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Виконання лабораторної роботи передбачає вивчення прийомів роботи з системою контролю версій Git:
 
-Currently, two official plugins are available:
+* створення віддаленого репозиторію;
+* клонування віддаленого репозиторію;
+* виконання комітів;
+* створення гілок та перемикання між ними;
+* виконання комітів у різних гілках;
+* автентифікація на GitHub за допомогою токена та через SSH;
+* вивантаження локального репозиторію на GitHub.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+У практичній роботі №1 було:
 
-## React Compiler
+1. створено локальний репозиторій
+2. створено віддалений репозиторій на GitHub
+3. зроблено коміти у локальному репозиторії
+4. вивантажено усі коміти з локального у віддалений репозиторій
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Використані команди Git
 
-## Expanding the ESLint configuration
+У практичній роботі №1 було використано такі команди Git:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [x] `git init`
+- [x] `git status`
+- [x] `git add`
+- [x] `git commit`
+- [x] `git remote add`
+- [x] `git push`
+- [x] `git pull`
+- [ ] `git branch`
+
+Виконав: ***Якимчук Іван***
